@@ -33,8 +33,8 @@ RESTful API built with Flask, featuring authentication, CRUD routes, and SQLAlch
 **Languages:** Python, Java, C++, SQL, HTML, CSS  
 **Frameworks:** Flask, Bootstrap, Jinja  
 **Databases:** SQLite, MySQL  
-**AI Tools:** OpenAI API, Hugging Face, LangChain  
-**Other Tools:** Git, GitHub, VS Code, PythonAnywhere, Tableau  
+**AI Tools:** OpenAI API,LLMs, ML  
+**Other Tools:** Git, GitHub, VS Code, PythonAnywhere 
 
 ---
 
