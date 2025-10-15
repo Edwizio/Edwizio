@@ -50,4 +50,4 @@ RESTful API built with Flask, featuring authentication, CRUD routes, and SQLAlch
 
 ---
 
-⭐️ *“Code with logic. Create with empathy.Life is precious. Take care of yourself”*  
+⭐️ *“Code with logic. Create with empathy. Life is precious. Take care of yourself”*  
