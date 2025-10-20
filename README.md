@@ -44,7 +44,7 @@ RESTful API built with Flask, featuring authentication, CRUD routes, and SQLAlch
 ---
 
 ### 📫 Connect With Me  
-💼 [LinkedIn](https://www.linkedin.com/in/zahra-rauf-11994589)  
+💼 [LinkedIn](https://www.linkedin.com/in/zahra-rauf)  
 🧠 [GitHub](https://github.com/Edwizio)  
 ✉️ **Email:** zahra.aleem@gmail.com  
 
