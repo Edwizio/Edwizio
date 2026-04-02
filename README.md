@@ -17,12 +17,12 @@ With a background in **teaching and digital computing**, I thrive at transformin
 ### 🧩 Featured Projects  
 
 #### 📚 [ProfessorProficient](https://github.com/Edwizio/ProfessorProficient) 
-An Agentic AI based Learning Management System(LMS) for educational instituitions deployed using Flask, FAISS, LangChain, SQLite and Pydantic
+An Agentic AI based Learning Management System(LMS) for educational instituitions deployed using Flask, FAISS, LangChain, SQLite and Pydantic. Quizzes and Assigments can be geenrated and graded using OpenAI integrated commands.
 
-#### ⚙️ [Urban-Regeneration-Scenario-Engine](https://github.com/CrisMcode111/urban-regeneration-scenario-engine))  
+#### ⚙️ [Urban-Regeneration-Scenario-Engine](https://github.com/CrisMcode111/urban-regeneration-scenario-engine) 
 Developed as a part of WorldVibesHackathon using Montgomery City Open Portal where data is analyzed and possible improvements in the city planning are suggested using GeoJSON, folium, pandas, Flask and canvas. A web based app was deployed using render and page was developed with HTML/CSS in Antigravity by google.
 
-#### 🎬 [MoviWebApp](https://github.com/Edwizio/MoviWebApp)  
+#### 🎬 [MoviWebApp](https://github.com/Edwizio/MoviWebApp)
 Flask-based full-stack web app with CRUD functionality for managing movie data, responsive UI, and SQLite integration — deployed on PythonAnywhere.
 
 ---
